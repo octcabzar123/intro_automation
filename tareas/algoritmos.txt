@@ -1,0 +1,29 @@
+Algoritmo - Login
+
+Pre requisitos:
+
+usuario: frank
+contraseña: sinatra
+página de inicio: 
+
+1. Entrar https://songs-by-sinatra.herokuapp.com/
+2. Esperar a que cargue la imagen y aparezca la liga de login
+3. Click en login
+4. teclear usuario en username y contraseña en password
+5. Click en el botón "Log In"
+6. Esperar a que salga el anuncio "You are now logged in as frank" y la imagen.
+
+Algoritmo - Agregar nueva canción
+
+Pre requisitos
+
+Estar loggeado
+Tener la información de la canción : Something stupid, 3, 01/03/1967, Something stupid like I love you.
+Tener la página de creación: https://songs-by-sinatra.herokuapp.com/songs/new
+
+1. Ir a la página de creación.
+2. En el primer campo poner "Something stupid"
+3. En el segundo campo poner la duración "3".
+4. En el tercer campo poner la fecha de lanzamiento "01/03/1967".
+5. En el cuarto campo poner la letra "Something stupid like I love you".
+6. Checar en la barra de dirección el número de canción.
